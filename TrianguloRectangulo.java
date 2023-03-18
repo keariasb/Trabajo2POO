@@ -1,6 +1,6 @@
 public class TrianguloRectangulo {
-    double base; // Atributo que define la base de un triángulo rectángulo
-    double altura; // Atributo que define la altura de un triángulo rectángulo
+    int base; // Atributo que define la base de un triángulo rectángulo
+    int altura; // Atributo que define la altura de un triángulo rectángulo
 
 
     public TrianguloRectangulo(int base, int altura) {
